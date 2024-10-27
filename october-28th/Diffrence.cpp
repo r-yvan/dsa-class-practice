@@ -43,9 +43,9 @@ int main()
 
   int res = addTwoNums(1, 34);
   std::cout << "Sum: " << res << std::endl;
-  
+
   int re = addTwoNums(1, 34, 96);
   std::cout << "Sum: " << re << std::endl;
-  
+
   return 0;
 }
