@@ -29,6 +29,5 @@ int main()
     {
         cout << marks[j] << endl;
     }
-
     return 0;
 }
