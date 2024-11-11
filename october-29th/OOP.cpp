@@ -35,7 +35,7 @@ int main()
   Rectangle rectb(15, 45);
   std::cout << "Area is of rectb: " << rectb.area() << std::endl;
 
-  Rectangle * rectd = new Rectangle(50, 100);
+  Rectangle *rectd = new Rectangle(50, 100);
   std::cout << "Area is of rectd: " << rectd->area() << std::endl;
 
   return 0;
