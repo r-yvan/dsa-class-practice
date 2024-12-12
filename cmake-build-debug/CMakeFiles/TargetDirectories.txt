@@ -1,3 +1,0 @@
-/media/rubuto-yvan/Personal Disk/Personal Skills Development/Coding & Development/C++/Projects/dsa-class-practice/cmake-build-debug/CMakeFiles/dsa_class_practice.dir
-/media/rubuto-yvan/Personal Disk/Personal Skills Development/Coding & Development/C++/Projects/dsa-class-practice/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/rubuto-yvan/Personal Disk/Personal Skills Development/Coding & Development/C++/Projects/dsa-class-practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -19,5 +19,9 @@ void insertionSort(int arr[], int n)
 
 int main() {
   int arr[] = {12, 11, 13, 5, 6};
+
+  while (true) {
+
+  }
   return 0;
 }
